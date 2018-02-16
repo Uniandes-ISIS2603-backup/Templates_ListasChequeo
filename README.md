@@ -1,4 +1,5 @@
 # Templates
+
 ## Requerimientos
 * [Documento de Requerimientos](../../wiki/Documento_de_Requerimientos)
 * [Glosario de Términos](../../wiki/glosario)
@@ -11,8 +12,5 @@
 * [Implementación Lógica](../../wiki/lqlogica)
 * [Diseño de Interfaz de Usuario](../../wiki/ui-design)
  
-# Tutorial Postman
-* [Correr colecciones Postman con Maven](../../wiki/postman)
-* [Obtener cobertura para pruebas Postman con Jacoco y arquillian](../../wiki/cobertura_de_pruebas_postman)
-* [Libreria postman](../../wiki/postman_tutorial)
+
 
