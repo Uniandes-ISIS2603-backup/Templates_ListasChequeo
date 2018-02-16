@@ -1,18 +1,18 @@
 # Templates
 ## Requerimientos
-* [Documento de Requerimientos](Documento_de_Requerimientos)
-* [Glosario de Términos](glosario)
-* [Listado de Requerimientos Funcionales](Listado-de-Requerimientos)
-* [Documentación un Caso de Uso](Documentación-Caso-de-Uso)
+* [Documento de Requerimientos](../../wiki/Documento_de_Requerimientos)
+* [Glosario de Términos](../../wiki/glosario)
+* [Listado de Requerimientos Funcionales](../../wiki/Listado-de-Requerimientos)
+* [Documentación un Caso de Uso](../../wiki/Documentación-Caso-de-Uso)
 
 
 # Listas de Chequeo
-* [Implementación Servicios Rest](lqrest)
-* [Implementación Lógica](lqlogica)
-* [Diseño de Interfaz de Usuario](ui-design)
+* [Implementación Servicios Rest](../../wiki/lqrest)
+* [Implementación Lógica](../../wiki/lqlogica)
+* [Diseño de Interfaz de Usuario](../../wiki/ui-design)
  
 # Tutorial Postman
-* [Correr colecciones Postman con Maven](postman)
-* [Obtener cobertura para pruebas Postman con Jacoco y arquillian](cobertura_de_pruebas_postman)
-* [Libreria postman](postman_tutorial)
+* [Correr colecciones Postman con Maven](../../wiki/postman)
+* [Obtener cobertura para pruebas Postman con Jacoco y arquillian](../../wiki/cobertura_de_pruebas_postman)
+* [Libreria postman](../../wiki/postman_tutorial)
 
