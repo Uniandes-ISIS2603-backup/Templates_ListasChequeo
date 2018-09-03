@@ -10,6 +10,7 @@
 # Listas de Chequeo
 * [Implementación Servicios Rest](../../wiki/lqrest)
 * [Implementación Lógica](../../wiki/lqlogica)
+* [Implementación Persistencia](../../wiki/lqpersistencia)
 * [Diseño de Interfaz de Usuario](../../wiki/ui-design)
  
 
